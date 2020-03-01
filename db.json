@@ -3,8 +3,10 @@
     {
       "id": 1,
       "title": "Post 1",
-      "category": [
-          "style": "hip hop"
+      "category": [ 
+          {
+            "style": "hip hop"
+          }
       ]
     }
 }
