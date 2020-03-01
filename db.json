@@ -2,7 +2,6 @@
   "posts":  [
     { 
       "name": "My Event 1", 
-      "title": "Post",
     }
   ]
 }
