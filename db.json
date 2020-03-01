@@ -1,8 +1,8 @@
 {
   "events": [
     {
-      "id": 1,
-      "title": "Post 1",
+      "name": "My Event 1",
+      "date": "Post 1",
       "category": [ 
           {
             "style": "hip hop"
